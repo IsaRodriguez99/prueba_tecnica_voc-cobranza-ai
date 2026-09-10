@@ -418,20 +418,20 @@ En producción se recomienda:
 ## Estructura del repositorio
 
 ```text
-voc-cobranza-ai/
+prueba_tecnica_voc-cobranza-ai/
 │
 ├── README.md
 │
-├── notebooks/
-│   └── Prueba_Tecnica_Cientifico_AI_VoC.ipynb
+├── Prueba_Técnica_–_Científico(a)_de_AI.ipynb
 │
-├── powerbi/
-│   ├── Dashboard_VoC.pbix
-│   └── Dashboard_VoC.pdf
-│
-├── presentation/
-│   ├── Presentacion_Final_VoC_Cientifico_AI.pdf
+├── data/
+│   ├── dataset_voc_powerbi.xlsx
 │   
 │
-└── data/
-    └── dataset_voc_powerbi.xlsx
+├── powerbi/
+│   ├── Visualización.pbix
+│   └── Visualización.pdf
+│
+└── presentation/
+    ├── Presentacion_Final_VoC_Cientifico_AI.pdf
+
